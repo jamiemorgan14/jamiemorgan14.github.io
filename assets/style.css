@@ -1,3 +1,35 @@
-* {
-  background-color: blue
+.bg {
+  background-image: url(photos/lp-background.jpg);
+  height: 100vh; 
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.my-nb {
+  opacity: .4;
+}
+
+.nav-fixed {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.my-name {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+
+.h100 {
+  height: 100vh;
+}
+
+.h50 {
+  height: 50vh;
+}
+
+.middling {
+  margin: 350px 0px 0px 10px
 }
