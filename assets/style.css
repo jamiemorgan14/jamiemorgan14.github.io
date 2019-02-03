@@ -26,6 +26,12 @@
   background-color: rgba(53, 51, 51, 0.835);
 }
 
+#end {
+  color: white;
+  text-shadow: .5px .5px 1px black;
+  background-color:  rgba(53, 51, 51, 0.835);
+}
+
 .my-nb {
   opacity: .8;
 }
@@ -67,6 +73,15 @@
   margin-right: auto;
   width: 30%;
   border-radius: 50%;
+}
+
+.lang-img {
+max-width: 100px;
+height: auto;
+}
+
+.links {
+  color: white;
 }
 
 hr {
