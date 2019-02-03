@@ -8,15 +8,22 @@
 }
 
 #my-story {
-background-color: rgba(53, 51, 51, 0.835);
+  background-color: rgba(53, 51, 51, 0.835);
   color: white;
   text-shadow: .5px .5px 1px black;
 }
 
 #portfolio {
-     color: white;
+  color: white;
   text-shadow: .5px .5px 1px black;
-   background-color:  rgba(53, 51, 51, 0.835);
+  background-color:  rgba(53, 51, 51, 0.835);
+}
+
+#languages {
+  color: white;
+  text-shadow: .5px .5px 1px black;
+  padding-top: 20px;
+  background-color: rgba(53, 51, 51, 0.835);
 }
 
 .my-nb {
@@ -24,9 +31,9 @@ background-color: rgba(53, 51, 51, 0.835);
 }
 
 .nav-fixed {
-    position: fixed;
-    z-index: 1;
-    width: 100%;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
 }
 
 .my-name {
@@ -55,7 +62,7 @@ background-color: rgba(53, 51, 51, 0.835);
 }
 
 .my-img {
-   display: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
@@ -63,7 +70,7 @@ background-color: rgba(53, 51, 51, 0.835);
 }
 
 hr {
-  max-width: 99%;
+  max-width: 10%;
   height: 2px;
-  background-color:white;
+  background-color: pink;
 }
