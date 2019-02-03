@@ -1,4 +1,4 @@
-.bg {
+#home {
   background-image: url(photos/lp-background.jpg);
   height: 100vh; 
   background-position: bottom;
@@ -7,8 +7,15 @@
   
 }
 
+#my-story {
+background-color: rgba(5, 62, 106, 0.79);
+color: rgb(216, 225, 208);
+}
+
+
+
 .my-nb {
-  opacity: .4;
+  opacity: 1;
 }
 
 .nav-fixed {
@@ -28,6 +35,10 @@
 
 .h50 {
   height: 50vh;
+}
+
+.h75 {
+  height: 75vh;
 }
 
 .middling {
