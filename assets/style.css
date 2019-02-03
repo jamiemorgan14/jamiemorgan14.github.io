@@ -1,21 +1,26 @@
 #home {
-  background-image: url(photos/lp-background.jpg);
+  background-image: url(photos/bg.jpg);
   height: 100vh; 
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  
+  opacity: .8;
 }
 
 #my-story {
-background-color: rgba(5, 62, 106, 0.79);
-color: rgb(216, 225, 208);
+background-color: rgba(53, 51, 51, 0.835);
+  color: white;
+  text-shadow: .5px .5px 1px black;
 }
 
-
+#portfolio {
+     color: white;
+  text-shadow: .5px .5px 1px black;
+   background-color:  rgba(53, 51, 51, 0.835);
+}
 
 .my-nb {
-  opacity: 1;
+  opacity: .8;
 }
 
 .nav-fixed {
@@ -42,5 +47,23 @@ color: rgb(216, 225, 208);
 }
 
 .middling {
-  margin: 350px 0px 0px 10px
+  margin-top: 350px
+}
+
+.my-dropdown {
+  background-color: rgb(223, 217, 218);
+}
+
+.my-img {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 50%;
+}
+
+hr {
+  max-width: 99%;
+  height: 2px;
+  background-color:white;
 }
