@@ -7,6 +7,35 @@
   opacity: .8;
 }
 
+#keepr {
+background-image: ""
+}
+
+#loanshark{
+background-image: url("/assets/Photos/loanshark.png");
+background-size: contain;
+}
+
+#kanban {
+background-image: ""
+}
+
+#inspire {
+background-image: ""
+}
+
+#music {
+background-image: ""
+}
+
+#nasa {
+background-image: ""
+}
+.port-piece{
+  min-width: 400px;
+min-height: auto
+}
+
 #my-story {
   background-color: rgba(53, 51, 51, 0.835);
   color: white;
